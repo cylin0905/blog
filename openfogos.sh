@@ -1,0 +1,1 @@
+install_args="--platform=PEAR_1900_X64_LINUX --user_id=18871862358 --storage_path=auto --cpu_cores=auto --storage_size=auto --bandwidth=auto --memory=auto" bash -c "$(curl -sS https://download.openfogos.com/linux/openfog_installer.sh)"
